@@ -28,6 +28,8 @@ Despite its tiny size, Ant2 can be mounted using regular M3 or M2.5 screws. Two 
 
 The USB-C connector is not included in the design or STEP files, because the license provided by JAE doesn't allow sharing their STEP files. However, their STEP file can be acquired [here](https://www.jae.com/en/connectors/series/detail/product/id=91780).
 
+## License
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
