@@ -6,7 +6,7 @@
 
 Ant2 is a tiny USB-C LiPo charger, measuring just 16 x 9 mm in footprint, barely larger than the USB-C connector itself. It is the smallest charger in it's category. Ant2 can be used to add USB-C power and battery charging support to your space constrained prototypes and projects. The tiny size also makes it easier to retrofit the USB-C power into your older projects.
 
-### Reduced thermal throttling
+## Reduced thermal throttling
 
 Ant2 uses a popular Microchip MCP73831 in a DFN package, which reduces thermal throttling. The more common SOT-23-5 package has a thermal performance about three times worse than that of DFN. Thermal throttling increases the charging time because of the reduced charging current. By improving the thermal performance the risk of increased charging time is reduced.
 
