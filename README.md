@@ -2,7 +2,7 @@
 
 # Ant2 USB-C LiPo Charger
 
-![alt text](images/ant2-lipo-charger-side-1.jpg "Logo Title Text 1")
+![alt text](images/ant2-lipo-charger-side-1.jpg "Ant2 USB-C LiPo Charger")
 
 Ant2 is a tiny USB-C LiPo charger, measuring just 16 x 9 mm in footprint, barely larger than the USB-C connector itself. It is the smallest charger in it's category. Ant2 can be used to add USB-C power and battery charging support to your space constrained prototypes and projects. The tiny size also makes it easier to retrofit the USB-C power into your older projects.
 
